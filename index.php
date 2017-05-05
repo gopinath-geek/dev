@@ -1,3 +1,3 @@
 <?php
 
-header("Location: child_page.html");
+header("Location: child_page.php");
