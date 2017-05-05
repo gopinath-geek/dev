@@ -7,7 +7,7 @@
 //         parent.postMessage("Hello","http://localhost/test_host/index.php");
 //     },1000);
     $(document).ready(function(){
-        parent.postMessage($(document).height(), "http://localhost/test_host/index.php";
+        parent.postMessage($(document).height(), "http://localhost/test_host/index.php");
     })
     
 </script>
